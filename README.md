@@ -42,7 +42,7 @@ This project explores an **online retail dataset** to analyze sales trends, cust
 - Other top-selling countries include **Germany, France, and the Netherlands**.
 
 ## 📈 Visualizations
-1. **Monthly Sales Trends** ![Monthly Sales Graph](monthly_sales.png)
+1. **Monthly Sales Trends** ![Monthly Sales Graph](images/Total_Sales_per_Month.png)
 2. **Sales by Day of the Week** ![Sales per Day](weekly_sales.png)
 3. **Top-Selling Products** ![Top Products](top_products.png)
 
