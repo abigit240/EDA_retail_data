@@ -43,7 +43,7 @@ This project explores an **online retail dataset** to analyze sales trends, cust
 
 ## 📈 Visualizations
 1. **Monthly Sales Trends** ![Monthly Sales Graph](images/Total_Sales_per_Month.png)
-2. **Sales by Day of the Week** ![Sales per Day](weekly_sales.png)
+2. **Sales by Day of the Week** ![Sales per Day](images/Total_Sales_per_Day.png)
 3. **Top-Selling Products** ![Top Products](top_products.png)
 
 ## 💡 Recommendations
